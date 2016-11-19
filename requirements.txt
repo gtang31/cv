@@ -1,0 +1,11 @@
+ipython
+jupyter
+matplotlib
+notebook
+numpy
+pandas
+Pillow
+pylab
+requests
+scikit-learn
+scipy
